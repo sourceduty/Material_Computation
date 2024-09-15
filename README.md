@@ -27,6 +27,8 @@ Material computation also highlights the potential of programmable matter, where
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [New School Subjects](https://github.com/sourceduty/New_Science_Subjects)
+<br>
+[Logic Gate Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
