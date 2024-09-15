@@ -13,6 +13,8 @@ Additionally, this GPT employs a step-by-step approach when dealing with user re
 #
 ### Material Computation Concept
 
+![Logic Machine](https://github.com/user-attachments/assets/86b956b0-0fe0-4527-a4b6-18ba7b3aff40)
+
 Material Computation is a concept that explores the idea that materials, through their inherent physical properties, can perform computational tasks. Unlike traditional digital computation, which relies on silicon-based processors to manipulate abstract data, material computation leverages the natural dynamics and interactions of physical systems to process information. This approach draws from physics, chemistry, biology, and engineering, recognizing that materials—whether mechanical, chemical, or biological—can encode, process, and output data through their responses to external stimuli. The essence of material computation lies in the ability of matter to perform computation naturally, with its behavior governed by physical laws rather than abstract algorithms.
 
 At the heart of material computation is the concept of physical information processing, where the state of a material can represent information. For example, changes in the mechanical strain of a flexible material, shifts in electrical resistance in a conductive polymer, or the arrangement of molecules in a biological system can all serve as forms of data encoding. When these materials are exposed to external forces—such as heat, light, or mechanical stress—they undergo predictable changes that correspond to computational operations. This allows materials to compute by naturally evolving their state, transforming inputs into outputs without the need for digital circuits or binary logic, providing new avenues for physical computation.
