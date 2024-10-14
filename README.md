@@ -31,6 +31,8 @@ Material computation also highlights the potential of programmable matter, where
 [New School Subjects](https://github.com/sourceduty/New_Science_Subjects)
 <br>
 [Logic Gate Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
+<br>
+[Mechanical Design](https://github.com/sourceduty/Mechanical_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
